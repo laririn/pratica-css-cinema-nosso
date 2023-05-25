@@ -1,0 +1,9 @@
+.texto-importante{
+    color: orangered;
+}
+.texto-nao-importante{
+    color: blue;
+}
+div{
+    background-color: yellow;
+}
